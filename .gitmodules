@@ -1,0 +1,9 @@
+[submodule "test_commit"]
+	path = test_commit
+	url = https://github.com/BilleGI/test_commit.git
+[submodule "calculate"]
+	path = calculate
+	url = https://github.com/BilleGI/calculate.git
+[submodule "shader"]
+	path = shader
+	url = https://github.com/BilleGI/shader.git
