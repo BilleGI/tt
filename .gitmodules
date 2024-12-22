@@ -1,5 +1,5 @@
 [submodule "app/test_commit"]
-	path = app/test_commit
+	path = app/test_com
 	url = https://github.com/BilleGI/test_commit.git
 [submodule "app/calculate"]
 	path = app/calculate
